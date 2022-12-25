@@ -2,20 +2,20 @@
   "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "Модуль 11 - CRUD, Асинхронные функции",
-  "homepage": "https://PNataliya.github.io/goit-js-hw-11",
+  "homepage": "https://heywhatsup88.github.io/goit-js-hw-11",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PNataliya/goit-js-hw-11.git"
+    "url": "git+https://github.com/heywhatsup88/goit-js-hw-11.git"
   },
   "keywords": [],
   "author": "Nataliia Pogrebniak <pogrebnyak.nataliya@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PNataliya/goit-js-hw-11/issues"
+    "url": "https://github.com/heywhatsup88/goit-js-hw-11/issues"
   },
   "dependencies": {
     "axios": "^0.27.2",
