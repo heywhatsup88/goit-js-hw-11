@@ -56,7 +56,7 @@ async function submitSearchForm(e) {
       endCollectionText.classList.add('is-hidden');
     }
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 }
 
